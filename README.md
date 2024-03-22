@@ -1,2 +1,3 @@
-# stardewvalley_mods
-mods used in stardewvalley
+# stardewvalley mods
+
+install SMAPI before pull git into mods folder
